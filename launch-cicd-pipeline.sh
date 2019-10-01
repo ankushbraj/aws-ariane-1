@@ -1,12 +1,12 @@
 #!/bin/bash
-AWS_DEFAULT_REGION="us-east-1"
-Email="<Enter Your Email>"
+AWS_DEFAULT_REGION="eu-central-1"
+Email="ankushbraj@gmail.com"
 
 # Parameters to Configure Specific Github Repo
-GitHub_User="<Enter Github Username>"
-GitHub_Repo="<Enter Github Repo Name Only>"
-GitHub_Branch="<Enter Repository Branch Name>"
-GitHub_Token="<Enter Github Personal Access Token>"
+GitHub_User="ankushbraj"
+GitHub_Repo="aws-ariane-1"
+GitHub_Branch="master"
+GitHub_Token="08cbacfd05e704478dd039cd389d0185a29c6429"
 
 # CodeBuild Project Parameters
 Python_Build_Version="aws/codebuild/python:3.6.5-1.3.2"
