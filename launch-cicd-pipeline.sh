@@ -6,7 +6,7 @@ Email="ankushbraj@gmail.com"
 GitHub_User="ankushbraj"
 GitHub_Repo="aws-ariane-1"
 GitHub_Branch="master"
-GitHub_Token="08cbacfd05e704478dd039cd389d0185a29c6429"
+GitHub_Token="a9ef05cd00ff9be20603df13e51c550248ceca54"
 
 # CodeBuild Project Parameters
 Python_Build_Version="aws/codebuild/python:3.6.5-1.3.2"
